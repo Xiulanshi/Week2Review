@@ -5,6 +5,9 @@
 ### Review Questions:
 
 - What are the three parts of a function's signature?
+- 1.return type
+- 2.name
+- 3.parameters
 
 ### Excercises:
 #####*These exercises will test the concepts that we covered in class.*
